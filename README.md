@@ -1,4 +1,4 @@
-# Google Play Store EDA & Honey Production Data Visualization
+# Google Play Store EDA 
 
 # Project Overview
 This project combines exploratory data analysis (EDA) and data visualization techniques on two distinct datasets:
